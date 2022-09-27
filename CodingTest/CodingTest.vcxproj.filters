@@ -13,10 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Level1">
+      <UniqueIdentifier>{930b87f2-36b5-47b9-8ac9-af72bb6baecf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CodingTest.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Level1\최댓값최솟값.cpp">
+      <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1\문자열다루기기본.cpp">
+      <Filter>소스 파일\Level1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
