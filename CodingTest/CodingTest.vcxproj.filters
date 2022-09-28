@@ -18,10 +18,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Level1\최댓값최솟값.cpp">
+    <ClCompile Include="Level1\이진변환반복하기%28람다%29.cpp">
       <Filter>소스 파일\Level1</Filter>
     </ClCompile>
-    <ClCompile Include="Level1\문자열다루기기본.cpp">
+    <ClCompile Include="Level1\최대공약수최소공배수.cpp">
       <Filter>소스 파일\Level1</Filter>
     </ClCompile>
   </ItemGroup>
