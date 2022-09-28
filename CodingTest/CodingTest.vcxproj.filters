@@ -16,12 +16,12 @@
     <Filter Include="소스 파일\Level1">
       <UniqueIdentifier>{930b87f2-36b5-47b9-8ac9-af72bb6baecf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Level2">
+      <UniqueIdentifier>{7cef169e-973a-4e9e-a892-3bcdf3da143a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Level1\이진변환반복하기%28람다%29.cpp">
-      <Filter>소스 파일\Level1</Filter>
-    </ClCompile>
-    <ClCompile Include="Level1\최대공약수최소공배수.cpp">
+    <ClCompile Include="Level1\3진법뒤집기.cpp">
       <Filter>소스 파일\Level1</Filter>
     </ClCompile>
   </ItemGroup>

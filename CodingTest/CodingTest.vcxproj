@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Level1\이진변환반복하기%28람다%29.cpp" />
-    <ClCompile Include="Level1\최대공약수최소공배수.cpp" />
+    <ClCompile Include="Level1\3진법뒤집기.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
