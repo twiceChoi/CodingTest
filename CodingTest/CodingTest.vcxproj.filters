@@ -19,10 +19,16 @@
     <Filter Include="소스 파일\Level2">
       <UniqueIdentifier>{7cef169e-973a-4e9e-a892-3bcdf3da143a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\자료구조">
+      <UniqueIdentifier>{4f08bacb-3ce6-4581-886b-ff517a4d373c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Level3">
+      <UniqueIdentifier>{9588a5d6-a8a5-4006-b0e0-f91d5a4330bf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Level1\3진법뒤집기.cpp">
-      <Filter>소스 파일\Level1</Filter>
+    <ClCompile Include="Level3\네트워크(DFS, BFS).cpp">
+      <Filter>소스 파일\Level3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
